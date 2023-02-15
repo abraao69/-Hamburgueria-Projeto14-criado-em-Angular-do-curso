@@ -1,0 +1,51 @@
+.banner {
+  background-image: url(../../../assets/img/hamburguer-realista-no-fundo-do-quadro_79603-1042.webp);
+  height: 800px;
+  background-position: center top;
+  background-size: cover;
+}
+.banner h3 {
+  color: rgb(217, 255, 0);
+  font-size: 30px;
+  font-weight: Roboto;
+  top: 20%;
+  left: 20%;
+  position: absolute;
+  margin-top: 50%;
+}
+.content {
+}
+
+.content h3 {
+  color: white;
+  font-size: 40px;
+  font-weight: bold;
+  text-align: right;
+  font-family: oswald;
+  margin-top: -09%;
+  margin-left: 05%;
+}
+
+.content a {
+  text-decoration: none;
+  background-color: white;
+  color: blueviolet;
+  padding: 16px 20px;
+  border-radius: 8px;
+  font-weight: bold;
+  margin-left: 3%;
+  margin-top: 5%;
+}
+.content a:hover {
+  background-color: blueviolet;
+  color: white;
+}
+
+.tag {
+  margin-top: 5%;
+  margin-left: 20%;
+  color: white;
+  font-size: 50px;
+  font-family: oswald;
+  font-weight: bold;
+}
